@@ -2,4 +2,4 @@
 
 Similar to Rotten Tomatoes, this is an app created in CSCI 3308 - Software Engineering Methods & Tools.
 
-Able to add movies, sort by title, year, genre, etc.
+Able to add movies, sort by title, release date, genre, etc.
